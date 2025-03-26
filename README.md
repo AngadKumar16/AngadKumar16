@@ -11,7 +11,7 @@
 I am Angad Kumar (@AngadKumar16), a current high schooler who loves coding is html, typescript, and in python.
 If you wish to collaborate or view my private repositories, you can contact me at angadkumar16ak@gmail.com. 
 
-If you wish to collaborate, I am an expert at app building and am currently building apps to put on the app store. I also code advanced Math functions using numpy and matplotlib.pypylot. I have a little expirence coding AIs and using PyTorch.
+If you wish to collaborate, I am an expert at app building and am currently building apps to put on the app store. I also code advanced Math functions using numpy and matplotlib.pypylot. I have a little expirence coding AIs and using PyTorch. I know many javascript varients like TypeScript and React.
 
 Best repository
 - https://github.com/AngadKumar16/Dhananjay-Kumar (Website I build for my dad, unfinished)

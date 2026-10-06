@@ -15,4 +15,4 @@ Projects:
 [GPClarity](https://github.com/AngadKumar16/GPClarity) lets you look inside Gaussian process models in GPy or Emukit: what the kernel is doing, where the uncertainty comes from, and which data points matter most. No changes to your training code.
 
 <br><br>
-I mostly write Python (PyTorch, TensorFlow, GPy, Emukit). If you work on SciML or uncertainty quantification, or need a reviewer, email me at angadkumar16ak@gmail.com. [ORCID](https://orcid.org/0009-0003-5253-3335).
+I mostly write Python (lots of machine learning but I am down to learn/do anything). If you work on SciML or uncertainty quantification, or need a reviewer, email me at angadkumar16ak@gmail.com. [ORCID](https://orcid.org/0009-0003-5253-3335).
